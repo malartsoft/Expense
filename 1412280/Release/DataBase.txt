@@ -1,0 +1,9 @@
+1	Ăn uống	Ăn cơm trưa	15
+2	Di chuyển	Đi xe buýt về Thủ Đức	4
+3	Nhà cửa	Sơn lại	20
+4	Ăn uống	Ăn tối	20
+5	Nhu yếu	Mua thuốc ho	21
+6	Ăn uống	Ăn sáng	10
+7	Xe cộ	Sửa xe	15
+8	Dịch vụ	Đi chơi với bạn	10
+9	Ăn uống	Ăn khuya	7
